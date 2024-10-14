@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Boilerplate NextJS',
+  manifest: '/manifest.webmanifest',
 }
 
 export default function RootLayout({
