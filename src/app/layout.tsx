@@ -6,7 +6,8 @@ import { AppProvider } from '~/hooks'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Boilerplate NextJS',
+  title: 'Play FUT',
+  icons: '/images/png/icon-play-fut.png',
   manifest: '/manifest.webmanifest',
 }
 
